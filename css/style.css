@@ -1,0 +1,50 @@
+/* Google font style */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* Text style */
+h1{
+    font-weight: 700;
+}
+h2{
+    font-weight: 600;
+}
+
+/* Paragraph text style */
+.p-text-color{
+    color: #6C6C6C;
+}
+
+/* Header section style */
+.color-background{
+    background-color: #264653;
+    ;
+}
+
+/* Modal part style */
+.btn-color{
+    background-color: #E76F51;
+}
+.modal-text-color{
+    color: black;
+}
+
+/* Paragraph text color */
+.extra-color{
+   color: #E76F51;
+}
+
+/* Grayscale style */
+.gray-img {
+    filter: grayscale(100%);
+  }
+
+  /* Happy clint part style */
+  .client-name{
+      color: #23A6F0;
+  }
+
+  .icon-color{
+      color: goldenrod
+      ;
+  }
